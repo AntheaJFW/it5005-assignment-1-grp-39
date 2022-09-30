@@ -1,4 +1,5 @@
 # it5005-assignment-1-grp-39
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AntheaJFW/it5005-assignment-1-grp-39/HEAD)  
 IT5005 assignment 1 grp 39 2022/2023 Sem 1
 
 Key:
